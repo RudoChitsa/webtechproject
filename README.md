@@ -22,7 +22,7 @@
 
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Zimbabwe.
 
-- :mailbox:How to reach me: (https://pixabay.com/illustrations/linkedin-social-network-logo-work-3504899/)](https://za.linkedin.com/in/rudochitsa)
+- :mailbox:How to reach me: (https://za.linkedin.com/in/rudochitsa)
 
 ---
 
